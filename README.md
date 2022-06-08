@@ -39,7 +39,7 @@
 ## Running Application :arrow_forward:
 First, clone this repository:
 ```
-git clone https://github.com/LeoLCM/batpontoproject-frontend.git
+git clone https://github.com/MatheusLMessias/batpontoproject-frontend.git
 ```
 In the project folder, install dependencies:
 ```
